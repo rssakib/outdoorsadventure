@@ -1,0 +1,381 @@
+@media(max-width: 1399px){
+	.hero-banner h1 {
+    
+    font-size: 60px;
+    letter-spacing: 1px;
+    margin: 20px 0;
+}
+.hero-banner h3 {
+    font-size: 26px;
+}
+.heading h1 {
+   
+    font-size: 34px;
+  letter-spacing: 1px;
+}
+.upcoming-event-section {
+    padding-top: 54px;
+}
+.event .card-body h5 {
+    font-size: 22px;
+    margin: 8px 0;
+}
+ .explore-section h1 {
+    font-size: 60px;
+    padding-top: 70px;
+}
+.explore-section a {
+  font-size: 13px;
+}
+.explore-section p {
+    
+    margin-bottom: 7px;
+}
+.footer-section h1 {
+    font-size: 30px;
+    
+}
+.h1, h1 {
+    
+    font-size: 29px;
+    
+    margin-bottom: 4px;
+}
+p {
+    margin-top: 4px;
+    margin-bottom: 1rem;
+ 
+}
+.btn-custom {
+    padding: 5px 15px;
+    letter-spacing: 1px;
+    }
+}
+@media(max-width: 1199px){
+
+.hero-banner h3 {
+    font-size: 24px;
+}
+.hero-banner h1 {
+    font-size: 56px;
+    margin: 12px 0;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding: 6px 17px;
+  
+}
+.heading h1 {
+    font-size: 30px;
+    
+}
+.event .card-body h5 {
+    font-size: 20px;
+    margin: 4px 0;
+}
+.event .card-body p {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.event .card-body a {
+    font-size: 12px;
+    padding-left: 14px;
+}
+.explore-section h1 {
+    font-size: 54px;
+    padding-top: 61px;
+}
+.footer-section p {
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+.footer-section  img {
+    height: 47px;
+    width: 47px;
+    padding: 7px;
+    border-radius: 9px;
+}
+.footer-section h1 {
+    font-size: 25px;
+}
+.footer-section {
+    padding: 75px 26px;
+    margin-top: 70px;
+}
+	
+}
+@media(max-width: 991px){
+
+	.navbar-nav {
+    flex-direction: row;
+    }
+
+.navbar-light .navbar-nav .nav-link {
+    padding: 6px 15px;
+}
+.hero-banner h1 {
+    font-size: 54px;
+    margin: 8px 0;
+}
+.hero-banner h3 {
+    font-size: 22px;
+}
+.line {
+    width: 96px;
+    height: 2px;
+    
+}
+.hero-banner {
+    padding: 250px 0;
+}
+.testimonial h3 {
+    font-size: 17px;
+   
+}
+.testimonial h2 {
+    font-size: 16px;
+    padding-right: 30px;
+}
+.heading h1 {
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+.event .card-body h5 {
+    font-size: 19px;
+    margin: 3px 0;
+}
+.explore-section h1 {
+    font-size: 38px;
+    padding-top: 70px;
+    
+}
+.explore-section p {
+   
+    text-align: justify;
+}
+.h1, h1 {
+    font-size: 25px;
+    margin-bottom: 3px;
+    font-weight: 700;
+}
+.btn-custom {
+    padding: 4px 10px;
+    letter-spacing: 1px;
+}
+.tour-section img.tour-img {
+    height: 150px;
+   
+}
+.tour-section img.destination-img {
+    height: 299px;
+  
+}
+.footer-section  img {
+    height: 42px;
+    width: 42px;
+  
+}
+.footer-section h1 {
+    font-size: 20px;
+    color: white;
+} 
+.footer-section p {
+    font-size: 17px;
+    
+    color: #b3b3b3;
+    margin-bottom: 4px;
+}
+}
+@media(max-width: 767px){
+
+	.navbar-nav {
+    flex-direction: column;
+    align-items: end;
+    }
+    .nav-link {
+    display: inline-block;
+   
+}
+
+
+.hero-banner {
+    padding: 160px 0;
+}
+.hero-banner h1 {
+    font-size: 48px;
+    margin: 8px 0;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding: 5px 13px;
+    color: white;
+}
+.btn-custom {
+    padding: 4px 6px;
+  
+    font-size: 13px;
+}
+.testimonial h3 {
+    font-size: 14px;
+}
+.testimonial h2 {
+    font-size: 18px;
+    
+}
+.heading h1 {
+    font-size: 25px;
+    
+}
+	.event .card-body h5 {
+    font-size: 16px;
+    margin: 5px 0;
+}
+.event .card-body p {
+    font-size: 13px;
+    margin-bottom: 5px;
+    text-align: justify;
+}
+.explore-section h1 {
+    font-size: 29px;
+    padding-top: 90px;
+}
+
+.explore-section p {
+    text-align: justify;
+    font-size: 13px;
+}
+.tour-section img.tour-img {
+    height: 93px;
+}
+.tour-section img.destination-img {
+    height: 190px;
+}
+.h1, h1 {
+    font-size: 16px;
+    margin-bottom: 6px;
+    font-weight: 800;
+}
+p {
+    margin-top: 9px;
+    margin-bottom: 17px;
+    font-size: 13px;
+}
+
+.footer-section a {
+  
+    margin-top: -4px;
+    font-size: 14px;
+   
+}
+
+.footer-section p {
+    font-size: 17px;
+
+    margin-bottom: 1px;
+}
+.footer-section h1 {
+    font-size: 19px;
+    
+    margin: 4px;
+}
+.explore-section {
+  
+    margin: 89px 0;
+    height: 475px;
+}
+}
+@media(max-width: 575px){
+		.navbar-nav {
+    flex-direction: column;
+    align-items: center;
+
+ }
+
+
+    .nav-link {
+    display: inline-block;
+
+   
+}
+.hero-banner {
+    padding: 113px 0;
+}
+.hero-banner h3 {
+    font-size: 16px;
+    margin-top: 30px;
+}
+.hero-banner h1 {
+    font-size: 26px;
+    margin: 8px 0;
+    letter-spacing: 0;
+}
+.heading h1 {
+    font-size: 20px;
+}
+.testimonial-section img {
+   
+    height: 86px;
+    margin-top: -19px;
+}
+.event .card-body h5 {
+    font-size: 13px;
+    margin: 4px 0;
+}
+.event .card-body p {
+    font-size: 12px;
+    margin-bottom: 4px;
+    
+}
+.explore-section {
+    margin: 54px 0;
+    height: 417px;
+}
+.explore-section h1 {
+    font-size: 29px;
+    text-align: center;
+    padding-top: 51px;
+}
+.explore-section .line {
+    
+    margin: auto;
+}
+.explore-section a{
+    color: var(--theme-color);
+    margin-left: 100px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.navbar-nav {
+   padding-top: 15px;
+   padding-bottom: 15px;
+   border-radius: 10px;
+    background: var(--theme-color);
+}
+	.btn-custom {
+   
+    margin-bottom: 25px;
+    margin-top: -8px;
+}
+.footer-section a {
+    margin-top: -4px;
+    font-size: 14px;
+    margin-bottom: 23px;
+}
+.footer-section  img {
+   
+    margin-top: 18px;
+}
+.footer-section h1 {
+    font-size: 16px;
+    margin: 0px;
+}
+.footer-section p {
+    font-size: 14px;
+   
+}
+.tour-section img.tour-img {
+    height: 130px;
+}
+.tour-section img.destination-img {
+    height: 270px;
+}
+
+}
